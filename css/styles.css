@@ -1,0 +1,21 @@
+
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    margin: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+}
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 700px;
+    background-color: rgba(209, 209, 209, 0.5);
+    padding: 20px;
+    border-radius: 10px 0 10px 0;
+}
+
